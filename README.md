@@ -16,7 +16,7 @@
   <h3>One-Click Deploy</h3>
   
   <p>
-    <a href="https://heroku.com/deploy?template=https://github.com/KunalG932/auto-manga-chapter-update-bot">
+    <a href="https://heroku.com/deploy?template=https://github.com/demon-cpu/auto-manga-chapter-update-bot">
       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" />
     </a>
   </p>
